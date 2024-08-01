@@ -1,0 +1,29 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+#head{
+   height: 80px;
+   color: white;
+   font-style: italic;
+   background-color: hsl(82, 90%, 41%);
+}
+h5,h1{
+   margin-left: 30px;
+}
+#data{
+   margin-top: 20px;
+   margin-left: 30px;
+}
+button{
+   margin-top: 10px;
+   margin-left: 30px;
+   background-color: hsl(82, 90%, 41%);
+   width: 70px;
+   height: 25px;
+   border-radius: 10%;
+   color: white;
+}
+p{
+   margin-top: 10px;
+}

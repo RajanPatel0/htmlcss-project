@@ -1,0 +1,40 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+#header{
+   height: 200px;
+   background-color: palevioletred;
+   color: white;
+   text-align: center;
+}
+h1{
+   position: absolute;
+   top: 80px;
+   left: 42%;
+}
+#navbar{
+   height: 50px;
+   background-color: black;
+   color: white;
+   position: sticky;
+   top: 0%;
+}
+a{
+   margin-left: 70px;
+   position: relative;
+   top: 15px;
+   color: white;
+}
+#content{
+   margin-left: 70px;
+   position: relative;
+   top: 80px;
+}
+h2{
+   position: relative;
+   bottom: 10px;
+}
+p{
+   margin-bottom: 80px;
+}

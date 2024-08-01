@@ -1,0 +1,47 @@
+.one{
+   height: 100px;
+   background-color: skyblue;
+   position: sticky;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+#image{
+   position: absolute;
+   left: 20px;
+   top: 17px;
+   height: 60px;
+   width: 60px;
+   background-image: url(set5.jpg);
+   background-size: cover;
+   border: 3px solid white;
+}
+#text{
+   margin-left: 120px;
+   position: absolute;
+   top: 10px;
+}
+.two{
+   height: 100px;
+   background-color: greenyellow;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   display: inline-block;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+#text2{
+   width: 90%;
+   position: relative;
+   top: 10px;
+   /* margin-right: 120px; */
+}
+#image2{
+   position: relative;
+   margin-left: 980px;
+   top: -17%;
+   height: 60px;
+   width: 60px;
+   background-image: url(set5.jpg);
+   background-size: cover;
+   border: 3px solid white;
+}
